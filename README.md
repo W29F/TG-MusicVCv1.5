@@ -36,7 +36,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### 💵 Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/W29F/TG-MusicVCv1.5_heroku/)
+[Click here](https://heroku.com/deploy?template=https://github.com/W29F/TG-MusicVCv1.5/)
 
 ## ℹ️ Commands
 
